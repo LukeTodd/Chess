@@ -53,3 +53,4 @@ var board1 = ChessBoard('board1', config);
 ```
 "# Chess" 
 "# Chess" 
+"# Chess" 
